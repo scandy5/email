@@ -8,7 +8,6 @@ Demo you can see, if you click [here].
 + HTML table make-up
 
 ## How to start project
- - open console 
  - `git clone https://github.com/scandy5/email`
  - open `index.html` 
 ### Result:
