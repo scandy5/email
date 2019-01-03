@@ -12,6 +12,6 @@ Demo you can see, if you click [here].
  - `git clone https://github.com/scandy5/email`
  - open `index.html` 
 ### Result:
-![home](https://github.com/scandy5/DSGN_landing/blob/master/app/img/DSGN_.png)
+![home](https://github.com/scandy5/email/blob/master/img/email.png)
 
 [here]: https://scandy5.github.io/email/
