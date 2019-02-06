@@ -5,7 +5,7 @@
 Demo you can see, if you click [here].
 
 ### Technologies that were used in the project:
-+ HTML table make-up
++ HTML table mark up
 
 ## How to start project
  - `git clone https://github.com/scandy5/email`
